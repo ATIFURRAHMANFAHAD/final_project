@@ -1,0 +1,57 @@
+Manipulation
+===============================================
+
+Case 1:
+----------------------------------------------
+Which module to run?
+2 - Manipulating
+0 - Finish
+Your selectiong
+2
+*** Start of Concatenation String Demo ***
+Type the 1st string (q - to quit):
+Hello
+Type the 2nd string:
+World
+Concatenation string is ' HelloWorld '
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating String Demo ***
+
+
+Case 2: 
+-----------------------------------------------
+Which module to run?
+2 - Manipulating
+0 - Finish
+Your selectiong
+2
+*** Start of Concatenation String Demo ***
+Type the 1st string (q - to quit):
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHH
+Type the 2nd string:
+Concatenation string is ' HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH '
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating String Demo ***
+
+
+Case 3:
+--------------------------------------------
+
+Which module to run?
+2 - Manipulating
+0 - Finish
+Your selectiong
+2
+*** Start of Concatenation String Demo ***
+Type the 1st string (q - to quit):
+
+Type the 2nd string:
+
+Concatenation string is '  '
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating String Demo ***
+
