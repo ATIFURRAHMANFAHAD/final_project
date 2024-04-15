@@ -1,0 +1,27 @@
+Manipulaiton
+===============================================
+
+Case 1:
+----------------------------------------------
+
+Type the 1st string (q - to quit):
+Hello
+Type the 2nd string:
+World
+Concatenation string is ' HelloWorld '
+
+
+Case 2: 
+-----------------------------------------------
+Type the 1st string (q - to quit):
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Type the 2nd string:
+Concatenation string is ' XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX '
+
+Case 3:
+--------------------------------------------
+Type the 1st string (q - to quit):
+
+Type the 2nd string:
+
+Concatenation string is '  '
