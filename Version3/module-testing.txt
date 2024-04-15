@@ -1,0 +1,56 @@
+Manipulation
+===============================================
+
+Case 1:
+----------------------------------------------
+
+Which module to run?
+2 - Manipulating
+0 - Finish
+Your selectiong
+2
+*** Start of Searching String Demo ***
+Type the 1st string (q - to quit):
+Hello World
+Type the 2nd string:
+W
+'W' found at 6 position
+Type the 1st string (q - to quit):
+q
+*** End of Searching String Demo ***
+
+Case 2: 
+-----------------------------------------------
+
+Which module to run?
+2 - Manipulating
+0 - Finish
+Your selectiong
+2
+*** Start of Searching String Demo ***
+Type the 1st string (q - to quit):
+I am Atif
+Type the 2nd string:
+0
+Not found
+Type the 1st string (q - to quit):
+q
+*** End of Searching String Demo ***
+
+Case 3:
+--------------------------------------------
+
+Which module to run?
+2 - Manipulating
+0 - Finish
+Your selectiong
+2
+*** Start of Searching String Demo ***
+Type the 1st string (q - to quit):
+
+Type the 2nd string:
+
+'' found at 0 position
+Type the 1st string (q - to quit):
+q
+*** End of Searching String Demo ***
